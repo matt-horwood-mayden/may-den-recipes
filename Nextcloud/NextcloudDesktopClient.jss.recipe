@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.peterkelm.download.nextcloud</string>
+	<string>com.github.may-den.pkg.nextcloud</string>
   <key>Process</key>
   <array>
     <dict>
