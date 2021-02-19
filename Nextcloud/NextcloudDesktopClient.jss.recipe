@@ -13,7 +13,7 @@
       <key>GROUP_TEMPLATE</key>
       <string>SmartGroupTemplate.xml</string>
       <key>NAME</key>
-      <string>Nextcloud Client</string>
+      <string>Nextcloud</string>
       <key>OS_REQUIREMENTS</key>
       <string>10.15.x,10.14.x,10.13.x</string>
       <key>POLICY_CATEGORY</key>
